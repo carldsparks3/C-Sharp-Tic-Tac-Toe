@@ -168,9 +168,10 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 403);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(299, 15);
+            this.label2.Size = new System.Drawing.Size(463, 15);
             this.label2.TabIndex = 12;
-            this.label2.Text = "Written by Carl Sparks. Source Code @ Gtihub/csparks3";
+            this.label2.Text = "Written by Carl Sparks. Source Code @ github.com/carldsparks3/C-Sharp-Tic-Tac-Toe" +
+    "/";
             // 
             // label3
             // 
